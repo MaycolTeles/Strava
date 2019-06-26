@@ -3,3 +3,10 @@
 
 
 The code reads the latitude, longitude, elevation and current time from a file. You can choose "1" to read and print this informations or "2" to read them but this time the program will do the calculations to print the total distance, total time, maximum speed, average speed, elevation gain, elevation loss, higher elevation and the lower elevation.
+
+Main Concepts:
+
+- Array
+- Files
+- Functions
+- Struct
